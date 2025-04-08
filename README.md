@@ -50,15 +50,17 @@ Tiko is a full-stack real-time chat application built with the MERN stack and So
 ```bash
 git clone https://github.com/sarthak1656/Tiko-Fullstack-realtime-chat-app.git
 cd Tiko-Fullstack-realtime-chat-app
-
+```
 
  📦 Backend Setup
 
 ```bash
 cd backend
 npm install
-
+```
 Create a .env file in the backend directory:
+
+```bash
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
@@ -66,23 +68,26 @@ CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 CLIENT_URL=http://localhost:5173
+```
 
 Run the backend server:
+```bash
 npm run dev
+```
+
 
 💻 Frontend Setup
 In a new terminal:
 
 
 cd frontend
+```bash
 npm install
 npm run dev
-The frontend will be available at:
+```
 
-http://localhost:5173
 🔗 App Running At
 Frontend: http://localhost:5173
-
 Backend: http://localhost:5000
 
 Ensure both servers are running simultaneously in separate terminals.
@@ -91,6 +96,5 @@ Ensure both servers are running simultaneously in separate terminals.
 Full-stack deployed on Render
 
 Make sure environment variables are properly configured on Render
-
 Ensure CORS and cookie settings are production-ready for secure deployment
 
