@@ -11,7 +11,7 @@ Tiko is a fully functional real-time chat application built using the MERN stack
 - 🔐 **User Authentication** (JWT-based, cookie stored)
 - 💬 **Real-time Messaging** (Socket.IO)
 - 🧑‍💼 **User Profiles**
-- 🎨 **Theme Customization** (Light/Dark mode)
+- 🎨 **30+ Theme Customization** 
 - 🟢 **Online/Offline Status**
 - 🔥 **Toasts & Notifications**
 - 📦 **Cloudinary Integration** for profile pictures
