@@ -40,12 +40,4 @@ Tiko is a fully functional real-time chat application built using the MERN stack
 - **Bcrypt.js** – Password hashing
 - **Dotenv, CORS**
 
----
 
-## ⚙️ Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/sarthak1656/tiko-chat-app.git
-cd tiko-chat-app
